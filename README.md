@@ -1,3 +1,5 @@
+You are free to use any library you want (exception is ready-to-use list sheet components). Use only functional components & react hooks. Good luck!:P
+
 Technical requirements for the component:
 
 1. Behaviour
@@ -9,5 +11,6 @@ Technical requirements for the component:
    1. component's content should slide in/out with the same speed (100ms) both for 1 and for 50 options
 1. Advanced
    1. should be closeable by swiping component's content down
+ 
 
 ![Image of Yaktocat](https://github.com/StartupCraft/rn-task-listsheet/blob/master/assets/example.gif)
