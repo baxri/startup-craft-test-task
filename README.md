@@ -11,6 +11,5 @@ Technical requirements for the component:
    1. component's content should slide in/out with the same speed (100ms) both for 1 and for 50 options
 1. Advanced
    1. should be closeable by swiping component's content down
- 
 
-![Image of Yaktocat](https://github.com/StartupCraft/rn-task-listsheet/blob/master/assets/example.gif)
+<img src="https://github.com/StartupCraft/rn-task-listsheet/blob/master/assets/example.gif" width="300" />
